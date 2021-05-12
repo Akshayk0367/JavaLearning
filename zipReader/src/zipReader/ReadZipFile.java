@@ -16,7 +16,6 @@ public class ReadZipFile {
 	public static void main(String[] args) throws Exception  {
 		String s = args[0];
 		//var modifyAPI = "A + C:\\Users\\Akshay kumar\\Desktop\\javaTestingSample-123456\\exe.txt";
-//		arrayOfstr[2] = "C:\\Users\\Akshay kumar\\Desktop\\javaTestingSample-123456\\exe.txt";
 		var modifyAPI = "D - exe.txt";
 		String[] arrayOfstr = modifyAPI.split(" ");
 	

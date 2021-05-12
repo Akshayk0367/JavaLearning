@@ -32,7 +32,6 @@ public class ReadZipFile {
 		//deleteFile(zipFilePath, relativePath);
 		
 		//addNewFile(zipFilePath, newFilePath);
-		//readZipFile(zipFilePath, relativePath);
 		
 		System.out.println(s);
 	}
